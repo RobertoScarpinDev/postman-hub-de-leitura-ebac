@@ -1,2 +1,2 @@
-# postman-hub-de-leitura-ebac
+# postman-hub-de-leitura
 Coleção de testes automatizados
